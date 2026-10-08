@@ -1,0 +1,9 @@
+SAMPLE DOCUMENT
+
+Name: John Kumar
+Phone: 9876543210
+Email: john@example.com
+ID: 1234 5678 9012
+
+Use this text in ShareSafe's "Optional demo text to scan" field.
+All values are synthetic and intended only for the college demonstration.
